@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="directory_description">This Activity contain all directory in the device so the user can access any audio file that stored in the device.\nSo the user can separate the audio file in different file this is also useful wen the user cannot find he/she files in the library activity</string>
+    <string name="description_title">Description</string>
+    <string name="home_description">This Activity contain the most used features in the app.\nFor example users can access the recently played music or the album that he/she created before or artists and so on</string>
+    <string name="search_description">in this activity users can search for audio files.\nFirst the activity will show the results that was founded in device storage after that, it will return the results that was found in the web</string>
+    <string name="store_description">In this activity users can found the audio file he/she want (audio book , songs, etc..) in web\nAnd after that the app will use Android Pay API for pay for this audio file</string>
+    <string name="library_description">in this activity use can manage there audio library\nThey can arrange the files in type of playlist (create and run playlist) or they just can play all audio on the app in songs.\nThere is also artists(song by artists) and album (song by album)</string>
+    <string name="API_description">The Android Pay API offers a quick and easy path to enable secure, one touch payments in your app using your existing payment infrastructure. Once you complete the integration with your app\'s payment processing flow, Android users will enjoy a rapid, consistent checkout process with Android Pay.</string>
+</resources>
